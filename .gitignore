@@ -13,3 +13,5 @@ vendor/
 # Files used by the taskfile.
 .task
 
+# JetBrains IDEs
+.idea/
